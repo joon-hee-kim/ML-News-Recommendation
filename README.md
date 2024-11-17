@@ -21,9 +21,9 @@ This is the result of news articles' recommendation systems using machine-learni
 
 ## 👥 Team Member
 201934219 Kim Joonhee </br>
- </br>
- </br>
- </br>
+202035302 Kang Jiyun</br>
+202234879 Kim Chungyoung </br>
+202235128 Cho Jaehyeon </br>
 
  
 ## ✔️ Source
