@@ -70,12 +70,9 @@ Our team initiated this project to tackle the issue of information overload in d
 
 
 ## 5. Data Analysis </br>
-5. Learning model evaluation and analysis 
 - Three Results - User based, Embedding vec, TF-IDF </br>
 <img src="https://github.com/user-attachments/assets/7647a56b-cf72-45a0-81a1-4461aed97837" width="850"> </br>
 
-
--  </br>
 
 
 ## 👥 Team Member
@@ -88,5 +85,11 @@ Our team initiated this project to tackle the issue of information overload in d
 ## ✔️ Source
 * ChatGPT </br>
 * [MIND Dataset: MIcrosoft News Dataset](https://www.kaggle.com/datasets/arashnic/mind-news-dataset?resource=download) </br>
+* [Introduction to MIND and MIND-small datasets](https://github.com/msnews/msnews.github.io/blob/master/assets/doc/introduction.md) </br>
+* [Text classification using movie reviews](https://www.tensorflow.org/tutorials/keras/text_classification?hl=ko) </br>
+* [GlobalAveragePooling1D layer](https://keras.io/api/layers/pooling_layers/global_average_pooling1d/) </br>
+* [How to use Keras embedding layer](https://colinch4.github.io/2023-09-07/11-55-40-102484/) </br>
+* [Embeddings](https://kaggler-tv.github.io/dku-kaggle-class/lectures/14-embeddings.html) </br>
+
 
 
