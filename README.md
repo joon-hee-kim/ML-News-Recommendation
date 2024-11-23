@@ -56,23 +56,16 @@ Our team initiated this project to tackle the issue of information overload in d
 <img src="https://github.com/user-attachments/assets/6b53e505-4cce-4cbc-be14-9fb9fff3cc2f" width="650"> </br>
 
 
-## 4. Modeling  </br>
-- Collaborative Filtering: User-based filtering </br>
-<img src="https://github.com/user-attachments/assets/e5702926-ba8a-44a5-963b-519154a4db35" width="450"> </br>
+## 4. Modeling & Data Analysis (Detailed explanations are described in CoLab) </br>
+- Three Results - Collaborative Filtering: User-based filtering, Content-Based Filtering: Using Embedding Vec, Content-Based Filtering: Using TF-IDF </br>
+- Although User-Based and TF-IDF had some overlapping items, the embedding method produced independent recommendation results that did not overlap with the other two methods. </br>
 
-
-- Content-Based Filtering: Using Embedding Vec </br>
-<img src="https://github.com/user-attachments/assets/40b168ab-8063-44c6-adec-d6ccf9442430" width="1250"> </br>
-
-
-- Content-Based Filtering: Using TF-IDF </br>
-<img src="https://github.com/user-attachments/assets/84c0f038-b398-423d-9f76-28e45af80d6e" width="550"> </br>
-
-
-## 5. Data Analysis </br>
-- Three Results - User based, Embedding vec, TF-IDF </br>
 <img src="https://github.com/user-attachments/assets/7647a56b-cf72-45a0-81a1-4461aed97837" width="850"> </br>
 
+## 5. Model Evaluation (Detailed explanations are described in CoLab) </br>
+- Two Results - Precision@K showed high performance, whereas Cross-validation-based evaluation showed poor performance </br>
+<img src="https://github.com/user-attachments/assets/352c68e7-dc71-4840-8963-3e8db50243b3" width="450"> </br>
+<img src="https://github.com/user-attachments/assets/c0411fc7-bdb0-432d-9c5b-c8e7bbddec97" width="850"> </br>
 
 
 ## 👥 Team Member
