@@ -1,6 +1,10 @@
 # ML_News_Recommendation
 This is the result of news articles' recommendation systems using machine-learning algorithms.
 
+## Notice! ##
+Go to the following site and download ‘behaviors.tsv’, ‘entity_embedding.vec’, and ‘news.tsv’ and run the code with them. Please understand that files cannot be uploaded due to file size issues.
+* [MIND Dataset: MIcrosoft News Dataset](https://www.kaggle.com/datasets/arashnic/mind-news-dataset?resource=download) </br>
+
 ## Motivation
 Our team initiated this project to tackle the issue of information overload in digital news consumption. By using the MIND dataset (The data source is listed below), we aim to develop a personalized news recommendation system that enhances user engagement and satisfaction. This project allows us to apply machine learning techniques to real-world challenges, deepening our understanding and skills in recommendation system development.
 
