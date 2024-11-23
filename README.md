@@ -61,9 +61,8 @@ Our team initiated this project to tackle the issue of information overload in d
 
 
 ## 4. Modeling & Data Analysis (Detailed explanations are described in CoLab) </br>
-- Compare Three Results For Evaluating Common Characteristics And Recommendation Quality - Collaborative Filtering: User-based filtering, Content-Based Filtering: Using Embedding Vec, Content-Based Filtering: Using TF-IDF </br>
-- While User-Based and TF-IDF had some overlapping items, the embedding method produced independent recommendation results that did not overlap with the other two methods. </br>
-- Overlapping items could be an important indicator for evaluating common characteristics and recommendation quality between algorithms.</br>
+- Compare Three Results For Evaluating Common Characteristics And Recommendation Quality (Such as Overlapping Items) - Collaborative Filtering: User-based filtering, Content-Based Filtering: Using Embedding Vec, Content-Based Filtering: Using TF-IDF </br>
+- While User-Based and TF-IDF had some overlapping items, the embedding method produced independent recommendation results that did not overlap with the other two methods. </br> 
 
 <img src="https://github.com/user-attachments/assets/7647a56b-cf72-45a0-81a1-4461aed97837" width="850"> </br>
 
